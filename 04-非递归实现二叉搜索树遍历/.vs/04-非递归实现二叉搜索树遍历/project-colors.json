@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e2968350-b095-4cd7-89a8-8336d6819cf9": {
+      "ProjectGuid": "e2968350-b095-4cd7-89a8-8336d6819cf9",
+      "DisplayName": "04-非递归实现二叉搜索树遍历",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

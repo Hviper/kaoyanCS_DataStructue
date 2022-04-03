@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd44665a-edf0-4cc3-9137-94a31fe7bde5": {
+      "ProjectGuid": "dd44665a-edf0-4cc3-9137-94a31fe7bde5",
+      "DisplayName": "05-矩阵压缩",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

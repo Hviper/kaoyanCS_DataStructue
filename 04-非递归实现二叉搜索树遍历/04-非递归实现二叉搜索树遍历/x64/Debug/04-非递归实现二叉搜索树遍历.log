@@ -1,0 +1,18 @@
+﻿  Main.cpp
+C:\Users\admin\Desktop\C++\kaoyan\04-非递归实现二叉搜索树遍历\04-非递归实现二叉搜索树遍历\Main.cpp(59,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ThreadTree.cpp
+C:\Users\admin\Desktop\C++\kaoyan\04-非递归实现二叉搜索树遍历\04-非递归实现二叉搜索树遍历\Main.cpp(59,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+LINK : warning LNK4076: 增量状态文件“x64\Debug\04-非递归实现二叉搜索树遍历.ilk”无效(将删除)；正以非增量方式链接
+ThreadTree.obj : error LNK2005: "void __cdecl add(int)" (?add@@YAXH@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl inorderTraversal(struct Node *)" (?inorderTraversal@@YAXPEAUNode@@@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl inorderTraversaldigui(struct Node *)" (?inorderTraversaldigui@@YAXPEAUNode@@@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl levelPrint(void)" (?levelPrint@@YAXXZ) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl postOrderTraversal(struct Node *)" (?postOrderTraversal@@YAXPEAUNode@@@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl postOrderTraversaldigui(struct Node *)" (?postOrderTraversaldigui@@YAXPEAUNode@@@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl preDigui(struct Node *)" (?preDigui@@YAXPEAUNode@@@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl preorderTraversal2(struct Node *)" (?preorderTraversal2@@YAXPEAUNode@@@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "class std::vector<int,class std::allocator<int> > __cdecl preorderTraversal(struct Node *)" (?preorderTraversal@@YA?AV?$vector@HV?$allocator@H@std@@@std@@PEAUNode@@@Z) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "void __cdecl staticMain(void)" (?staticMain@@YAXXZ) 已经在 Main.obj 中定义
+ThreadTree.obj : error LNK2005: "struct Node * root" (?root@@3PEAUNode@@EA) 已经在 Main.obj 中定义
+C:\Users\admin\Desktop\C++\kaoyan\04-非递归实现二叉搜索树遍历\x64\Debug\04-非递归实现二叉搜索树遍历.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

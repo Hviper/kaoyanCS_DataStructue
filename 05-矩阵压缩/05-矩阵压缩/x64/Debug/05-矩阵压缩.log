@@ -1,0 +1,9 @@
+﻿  Y.cpp
+C:\Users\admin\Desktop\C++\kaoyan\05-矩阵压缩\05-矩阵压缩\Y.cpp(31,29): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\admin\Desktop\C++\kaoyan\05-矩阵压缩\05-矩阵压缩\Y.cpp(45,37): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\admin\Desktop\C++\kaoyan\05-矩阵压缩\05-矩阵压缩\Y.cpp(65,41): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+C:\Users\admin\Desktop\C++\kaoyan\05-矩阵压缩\05-矩阵压缩\Y.cpp(79,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\C++\kaoyan\05-矩阵压缩\05-矩阵压缩\Y.cpp(81,33): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Desktop\C++\kaoyan\05-矩阵压缩\05-矩阵压缩\Y.cpp(90,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  线段树.cpp
+  正在生成代码...
